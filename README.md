@@ -1,6 +1,6 @@
 <p>
-Chercheur d'emploi, dynamique et passionné, doté de solides compétences organisationnelles, désireux d'obtenir le poste d'Ingénieur Informaticien (Admin Système, DevOps Junior). 
-Candidat fiable, capable de gérer plusieurs priorités avec une attitude positive.
+Dynamique et passionné, doté de solides compétences organisationnelles, désireux d'obtenir le poste d'Ingénieur Informaticien (Administrateur Système, Analyste en Securité et Ingénieur DevOps Junior). 
+Candidat capable de gérer plusieurs priorités avec une attitude positive.
 Volonté d'assumer des responsabilités supplémentaires et prêt à aider l'équipe à atteindre les objectifs de l'entreprise.
 </p>
 <!--
